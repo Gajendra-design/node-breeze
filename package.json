@@ -1,6 +1,6 @@
 {
   "name": "create-node-breeze",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "description": "A Laravel Breeze-inspired MVC starter kit for Node.js featuring dual-token (access & refresh) authentication.",
   "license": "ISC",
   "author": "Gajendra Sharma",
