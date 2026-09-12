@@ -6,7 +6,7 @@
   "author": "Gajendra Sharma",
   "type": "module",
   "bin": {
-    "create-node-breeze": "./bin/index.js"
+    "create-node-breeze": "bin/index.js"
   },
   "files": [
     "bin",
