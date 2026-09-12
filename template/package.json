@@ -1,6 +1,6 @@
 {
   "name": "my-mvc-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Node MVC App built with Node Breeze",
   "type": "module",
   "main": "src/server.js",

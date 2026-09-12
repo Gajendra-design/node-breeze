@@ -1,16 +1,28 @@
 {
   "name": "create-node-breeze",
-  "version": "0.1.0",
-  "description": "A Laravel Breeze-like authentication and MVC starter kit for Node.js",
+  "version": "0.1.1",
+  "description": "A Laravel Breeze-inspired MVC starter kit for Node.js featuring dual-token (access & refresh) authentication.",
   "license": "ISC",
   "author": "Gajendra Sharma",
   "type": "module",
   "bin": {
-    "create-node-breeze": "bin/index.js"
+    "create-node-breeze": "./bin/index.js"
   },
   "files": [
     "bin",
     "template"
+  ],
+  "keywords": [
+    "create-node-breeze",
+    "node-breeze",
+    "laravel-breeze",
+    "node-starter",
+    "mvc-boilerplate",
+    "express-mvc",
+    "dual-token",
+    "jwt-refresh-token",
+    "auth-starter",
+    "mongoose-auth"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
